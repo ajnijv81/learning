@@ -8,3 +8,4 @@
 - [ ] edit a file
 - [ ] commit the changes
 - [ ] create a pull request
+- [ ] merge 
